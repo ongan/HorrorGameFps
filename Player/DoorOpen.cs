@@ -40,6 +40,7 @@ public class DoorOpen : MonoBehaviour
             }
         }
     }
+    
     private void OnMouseExit()
     {
         actionKey.SetActive(false);
